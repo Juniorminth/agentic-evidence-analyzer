@@ -1,0 +1,31 @@
+Course: Introduction to Artificial Intelligence Engineering
+
+Attendance Policy:
+Students are expected to attend all weekly lectures and labs. Attendance is not graded directly, but missing labs may affect the student's ability to complete practical assignments.
+
+Assignment Policy:
+There are four programming assignments during the semester. Each assignment must be submitted through the course portal before 23:59 on the due date.
+
+Late Submission Policy:
+Each student has three late days for the entire semester. A late day allows a submission up to 24 hours after the deadline without penalty. After all late days are used, late submissions lose 10 percent of the assignment grade per day.
+
+Collaboration Policy:
+Students may discuss high-level ideas with classmates, but each student must write and submit their own code and explanations. Copying code, sharing complete solutions, or using another student's work is considered academic misconduct.
+
+Exam Policy:
+The final exam is closed-book and covers lectures, labs, readings, and assignments. Students who miss the exam because of illness must submit official medical documentation within seven days.
+
+Grading Policy:
+The final grade is based on assignments, labs, a project, and the final exam. Programming assignments are worth 35 percent, labs are worth 15 percent, the final project is worth 25 percent, and the final exam is worth 25 percent.
+
+Project Policy:
+The final project must demonstrate a working AI engineering pipeline. Students must submit source code, a short report, and a recorded demo. Projects are evaluated on correctness, design clarity, evaluation quality, and explanation of limitations.
+
+Use of AI Tools:
+Students may use AI tools for brainstorming, debugging, and explanation, but they must understand and be able to explain all submitted work. Generated code must be reviewed, tested, and cited when appropriate.
+
+Office Hours:
+Teaching assistants hold office hours twice per week. Students are encouraged to ask questions about concepts, debugging, and project design, but teaching assistants will not write complete solutions for students.
+
+Accessibility and Extensions:
+Students who need accommodations should contact the university accessibility office as early as possible. Extensions may be granted for documented medical, accessibility, or emergency reasons.

@@ -1,0 +1,9 @@
+Final Project Requirements:
+The final project must demonstrate a working AI engineering pipeline. Students must submit source code, a short report, and a recorded demo.
+
+Evaluation Criteria:
+Projects are evaluated on correctness, design clarity, evaluation quality, and explanation of limitations.
+
+Required Discussion:
+The final report should describe the problem, data, methodology, results, limitations, and future work.
+

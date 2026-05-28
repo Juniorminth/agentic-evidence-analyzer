@@ -1,0 +1,9 @@
+Grading Revision Notice:
+The final project weight has been increased to 30 percent of the final grade. The final exam weight has been reduced to 20 percent of the final grade.
+
+Unchanged Components:
+Programming assignments remain worth 35 percent of the final grade. Labs remain worth 15 percent of the final grade.
+
+Reason for Revision:
+The revision gives more weight to the practical AI engineering project.
+

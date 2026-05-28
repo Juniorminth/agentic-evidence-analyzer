@@ -1,0 +1,9 @@
+Use of AI Tools:
+Students may use AI tools for brainstorming, debugging, explanation, and learning support. Students must understand and be able to explain all submitted work.
+
+Generated Code Policy:
+Generated code may be used only after the student reviews, tests, and understands it. Students are responsible for the correctness of any generated code they submit.
+
+Citation Policy:
+When AI tools substantially influence submitted code or explanations, students should cite the use of those tools.
+

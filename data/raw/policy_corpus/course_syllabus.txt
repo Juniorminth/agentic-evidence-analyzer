@@ -1,0 +1,12 @@
+Course Syllabus:
+The course is called Introduction to Artificial Intelligence Engineering. Students are expected to attend weekly lectures and labs.
+
+Assignment Policy:
+There are four programming assignments during the semester. Each assignment must be submitted through the course portal before 23:59 on the due date.
+
+Late Submission Policy:
+Each student has three late days for the entire semester. A late day allows a submission up to 24 hours after the deadline without penalty. After all late days are used, late submissions lose 10 percent of the assignment grade per day.
+
+Grading Policy:
+The final grade is based on assignments, labs, a final project, and a final exam. Programming assignments are worth 35 percent, labs are worth 15 percent, the final project is worth 25 percent, and the final exam is worth 25 percent.
+

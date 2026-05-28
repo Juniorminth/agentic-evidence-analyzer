@@ -1,0 +1,6 @@
+Updated Late Penalty Policy:
+The course keeps the three late-day allowance for programming assignments. However, after all late days are used, late submissions lose 20 percent of the assignment grade per day.
+
+Late Submission Clarification:
+A late day still allows a submission up to 24 hours after the deadline. The updated penalty applies only after the student has used all available late days.
+

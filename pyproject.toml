@@ -1,0 +1,12 @@
+[project]
+name = "aiengineeringfinalproj"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv-python>=0.0.1",
+    "langgraph>=1.1.10",
+    "openai>=2.35.1",
+    "python-dotenv>=1.2.2",
+    "scikit-learn>=1.8.0",
+    "sentence-transformers>=5.4.1",
+]

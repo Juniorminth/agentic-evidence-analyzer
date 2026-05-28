@@ -1,0 +1,37 @@
+[
+  {
+    "query": "How many late days does each student have?",
+    "expected_chunk_id": 3,
+    "query_type": "keyword"
+  },
+  {
+    "query": "Can I turn in homework after the deadline?",
+    "expected_chunk_id": 3,
+    "query_type": "paraphrase"
+  },
+  {
+    "query": "How is the final grade calculated?",
+    "expected_chunk_id": 6,
+    "query_type": "keyword"
+  },
+  {
+    "query": "Can I get extra time because of a medical problem?",
+    "expected_chunk_id": 10,
+    "query_type": "paraphrase"
+  },
+  {
+    "query": "What should I do if I am too sick to take the test?",
+    "expected_chunk_id": 5,
+    "query_type": "paraphrase"
+  },
+  {
+    "query": "Can teaching assistants write complete solutions for students?",
+    "expected_chunk_id": 9,
+    "query_type": "keyword"
+  },
+  {
+    "query": "Do I need to cite generated code?",
+    "expected_chunk_id": 8,
+    "query_type": "keyword"
+  }
+]

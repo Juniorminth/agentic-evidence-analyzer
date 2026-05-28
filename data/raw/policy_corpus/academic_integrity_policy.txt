@@ -1,0 +1,9 @@
+Academic Integrity Policy:
+Students may discuss high-level ideas with classmates, but each student must write and submit their own code and explanations.
+
+Misconduct Policy:
+Copying code, sharing complete solutions, submitting another student's work, or presenting generated work as fully original is considered academic misconduct.
+
+Citation Requirement:
+Any external help, including AI-generated suggestions, copied snippets, or substantial debugging assistance, must be cited when appropriate.
+

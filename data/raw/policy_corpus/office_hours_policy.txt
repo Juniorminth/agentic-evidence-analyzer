@@ -1,0 +1,9 @@
+Office Hours Policy:
+Teaching assistants hold office hours twice per week. Students are encouraged to ask questions about concepts, debugging, and project design.
+
+Limits of Help:
+Teaching assistants may explain concepts, review error messages, and suggest debugging strategies. Teaching assistants will not write complete solutions for students.
+
+Project Help:
+Students may ask for feedback on project design, but they must implement and understand their own solution.
+
